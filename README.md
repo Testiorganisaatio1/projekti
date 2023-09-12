@@ -1,0 +1,2 @@
+# projekti
+Ohjelmistokehitys -kurssin projekti
