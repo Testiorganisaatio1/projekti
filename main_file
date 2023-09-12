@@ -1,1 +1,3 @@
 Console.WriteLine("Hello World");
+Console.Write("Greet the computer back: ");
+string greeting = Console.ReadLine();
